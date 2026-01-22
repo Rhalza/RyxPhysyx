@@ -1,0 +1,1 @@
+RYX_MATERIALS.aerogel={id:'aerogel',name:'Silica Aerogel',density:0.05,color:'#e0f0ff',dragCoefficient:0.6,thermalConductivity:0.02,electricalResistivity:1e12,};
