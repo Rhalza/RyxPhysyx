@@ -1,0 +1,1 @@
+RYX_MATERIALS.default={id:'default',name:'Default Material',density:1.0,color:'#cccccc',dragCoefficient:0.47,thermalConductivity:1.0,electricalResistivity:1.0,};
