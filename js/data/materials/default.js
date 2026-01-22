@@ -1,1 +1,2 @@
+console.log('[VERIFY]Executing default.js. Attempting to modify RYX_MATERIALS...');
 RYX_MATERIALS.default={id:'default',name:'Default Material',density:1.0,color:'#cccccc',dragCoefficient:0.47,thermalConductivity:1.0,electricalResistivity:1.0,};
