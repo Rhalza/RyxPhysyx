@@ -1,1 +1,1 @@
-
+const RYX_OBJECTS={};
