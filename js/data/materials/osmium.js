@@ -1,1 +1,2 @@
+console.log('[VERIFY]Executing osmium.js. Attempting to modify RYX_MATERIALS...');
 RYX_MATERIALS.osmium={id:'osmium',name:'Osmium',density:8.5,color:'#a4a8b5',dragCoefficient:0.4,thermalConductivity:87.6,electricalResistivity:8.12e-8,};
