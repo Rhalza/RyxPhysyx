@@ -1,1 +1,1 @@
-const RYX_MATERIALS={};
+window.RYX_MATERIALS={};
