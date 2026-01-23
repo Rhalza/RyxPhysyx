@@ -1,1 +1,1 @@
-RYX_MATERIALS.vacuum={id:'vacuum',name:'Vacuum',density:0,dragCoefficient:0,thermalConductivity:0,electricalResistivity:Infinity,};
+RYX_MATERIALS.vacuum={id:'vacuum',name:'Vacuum',density:0,color:'#000000',dragCoefficient:0,thermalConductivity:0,electricalResistivity:Infinity,};
